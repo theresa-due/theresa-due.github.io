@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="20.8755mm" height="20.8796mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 201.82 201.86"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#FEFEFE}
+    .fil2 {fill:#2B2A29}
+    .fil1 {fill:#2B2A29;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2224396539072">
+   <polygon class="fil0" points="100.97,0 201.82,100.97 100.84,201.82 -0,100.84 "/>
+   <polygon class="fil1" points="83.26,102.07 83.45,184.39 74.9,175.84 74.73,102.09 "/>
+   <polygon class="fil1" points="0.12,101 157.48,100.83 157.51,109.36 8.64,109.52 "/>
+   <path class="fil2" d="M101.2 48.09c42.19,42.92 43.1,111.25 -0.23,153.77l-5.67 -5.67c40.2,-39.39 39.3,-102.63 0.23,-142.42l5.67 -5.67z"/>
+  </g>
+ </g>
+</svg>
